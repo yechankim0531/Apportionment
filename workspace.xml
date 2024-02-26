@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f34613c4-7f89-411e-ac63-b6c87deb28ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sampleTeams.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scratch.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/edu/virginia/cs/nbateams/BallDontLieReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/edu/virginia/cs/nbateams/CityTeamFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/edu/virginia/cs/nbateams/Conference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/edu/virginia/cs/nbateams/Division.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/edu/virginia/cs/nbateams/GoodAbbreviationReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/edu/virginia/cs/nbateams/GoodAbbreviations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/edu/virginia/cs/nbateams/JSONExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/edu/virginia/cs/nbateams/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/edu/virginia/cs/nbateams/NBATeam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/edu/virginia/cs/nbateams/NBATeamExcelWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/edu/virginia/cs/nbateams/NBATeamReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/edu/virginia/cs/nbateams/SSWorkbookFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/edu/virginia/cs/nbateams/BallDontLieReaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/edu/virginia/cs/nbateams/BallDontLieReaderUnitTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/edu/virginia/cs/nbateams/FakeBallDontLieReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/edu/virginia/cs/nbateams/GoodAbbreviationsIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/edu/virginia/cs/nbateams/GoodAbbreviationsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/edu/virginia/cs/nbateams/NBATeamExcelWriterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/edu/virginia/cs/nbateams/NBATeamReaderIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/edu/virginia/cs/nbateams/StubNBATeamReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/edu/virginia/cs/nbateams/TeamCityFinderIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/edu/virginia/cs/nbateams/TeamCityFinderUnitTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2c0bfndBiEeZD4ZPgTGQL0rUfYB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/CS3140/hw1-pzr6qw-msw3jg",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f34613c4-7f89-411e-ac63-b6c87deb28ba" name="Changes" comment="" />
+      <created>1707251548427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707251548427</updated>
+      <workItem from="1707251549429" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
